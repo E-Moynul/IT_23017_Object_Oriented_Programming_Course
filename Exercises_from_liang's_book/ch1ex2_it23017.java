@@ -1,4 +1,4 @@
-public class ch1ex2 {
+public class ch1ex2_it23017 {
     public static void main(String[] args) {
         int count = 0;
 
